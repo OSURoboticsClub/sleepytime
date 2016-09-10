@@ -1,0 +1,15 @@
+{
+  "org": "OSU Robotics Club",
+  "version": "0.0.0",
+  "author": "Harlan James, Kruno Peric",
+  "places": {
+    "store": {
+      "nodes": {
+        "light": {
+        },
+        "calendar": {
+        }
+      }
+    }
+  }
+}
