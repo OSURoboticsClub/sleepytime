@@ -10,6 +10,6 @@
     "request": "^2.74.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js &>> server.log | tail -f server.log"
   }
 }
